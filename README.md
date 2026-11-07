@@ -13,16 +13,9 @@
 
 ## 👋 Sobre mim
 
-Estudante de **Engenharia de Software**, com interesse em **Desenvolvimento Front-End**, **Inteligência Artificial** e **Análise de Dados**.
-Me chamo Matheus Chagas, tenho 18 anos e curso Engenharia de software na Universidade Cidade de São Paulo. Atualmente meu foco é desenvolvimento front-end, mas aprimorando minhas habilidades para iniciar full-stack.
+Me chamo Matheus Chagas, tenho 18 anos, sou estudante de **Engenharia de Software** na Universidade Cidade de São Paulo, com interesse em **Desenvolvimento Front-End**, **Inteligência Artificial** e **Análise de Dados**. Atualmente meu foco é desenvolvimento front-end, mas aprimorando minhas habilidades para iniciar full-stack.
 
 📍 São Paulo, Brasil
-
----
-
-<p align="center">
-  <img src="cena.png" alt="Cena dev com café e fone" width="100%">
-</p>
 
 ---
 
@@ -37,7 +30,11 @@ Me chamo Matheus Chagas, tenho 18 anos e curso Engenharia de software na Univers
 </p>
 
 ---
+<p align="center">
+  <img src="cena.png" alt="Cena dev com café e fone" width="100%">
+</p>
 
+---
 
 ## 📫 Contato
 
