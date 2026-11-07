@@ -50,3 +50,9 @@ Me chamo Matheus Chagas, tenho 18 anos, sou estudante de **Engenharia de Softwar
 - Número: 11 99636-1661
 - LinkedIn: https://www.linkedin.com/in/matheus-chagas-coque-b190ba39b/
 
+---
+
+<p>
+  <a href="https://github.com/chagasmatheus1211/chagasmatheus1211/blob/main/Cv_matheus_chagas_september_2026.pdf"><img src="https://img.shields.io/badge/CURRÍCULO-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo"></a>
+</p>
+
