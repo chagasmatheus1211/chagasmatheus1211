@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Banner Matheus Chagas" width="100%">
 </p>
 
-<h3 align="center" text-color="purple"><code>Transformando café e bugs em soluções</code></h3>
+<h3 align="center"><code>Transformando café e bugs em soluções</code></h3>
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/PORTFÓLIO-1f4e8c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
@@ -17,6 +17,12 @@ Estudante de **Engenharia de Software**, com interesse em **Desenvolvimento Fron
 Me chamo Matheus Chagas, tenho 18 anos e curso Engenharia de software na Universidade Cidade de São Paulo. Atualmente meu foco é desenvolvimento front-end, mas aprimorando minhas habilidades para iniciar full-stack.
 
 📍 São Paulo, Brasil
+
+---
+
+<p align="center">
+  <img src="cena.png" alt="Cena dev com café e fone" width="100%">
+</p>
 
 ---
 
