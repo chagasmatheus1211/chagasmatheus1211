@@ -4,9 +4,8 @@
 
 <h3 align="center"><code>Transformando café e bugs em soluções</code></h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheus-chagas-coque-b190ba39b/"><img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href=""><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+---
+
   <a href="Cv_matheus_september_2026.pdf"><img src="https://img.shields.io/badge/CURRÍCULO-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo"></a>
 
 ---
