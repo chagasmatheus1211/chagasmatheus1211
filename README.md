@@ -52,7 +52,7 @@ Me chamo Matheus Chagas, tenho 18 anos, sou estudante de **Engenharia de Softwar
 
 ---
 
-<p>
+<p align="center">
   <a href="https://github.com/chagasmatheus1211/chagasmatheus1211/blob/main/Cv_matheus_chagas_september_2026.pdf"><img src="https://img.shields.io/badge/CURRÍCULO-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo"></a>
 </p>
 
