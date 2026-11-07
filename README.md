@@ -6,7 +6,7 @@
 
 ---
 
-  <a href="Cv_matheus_september_2026.pdf"><img src="https://img.shields.io/badge/CURRÍCULO-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo"></a>
+  <a href="Cv_matheus_september_2026.pdf"><img src="https://img.shields.io/badge/CURRÍCULO-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo" align="center"></a>
 
 ---
 
