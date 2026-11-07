@@ -46,8 +46,6 @@ Me chamo Matheus Chagas, tenho 18 anos, sou estudante de **Engenharia de Softwar
 
 ## ✉ Contatos e currículo
 
----
-
 <p>
   <a href="mailto:chagasmatheus1211@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   <a href="https://www.linkedin.com/in/matheus-chagas-coque-b190ba39b/"><img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
