@@ -2,11 +2,7 @@
   <img src="banner.png" alt="Banner Matheus Chagas" width="100%">
 </p>
 
-<p align="center">
-  <img src="cena.png" alt="Cena dev com café e fone" width="100%">
-</p>
-
-<h3 align="center"><code>Transformando café e bugs em soluções</code></h3>
+<h3 align="center" text-color="purple"><code>Transformando café e bugs em soluções</code></h3>
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/PORTFÓLIO-1f4e8c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
