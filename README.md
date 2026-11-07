@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/ondas.png" alt="Ilustração de ondas e lua" width="100%">
+  <img src="assets/ondas.png" alt="" width="100%">
 </p>
 
 <h3 align="center"><code>Transformando café e bugs em soluções</code></h3>
