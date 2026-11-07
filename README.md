@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner – Matheus Chagas | Engenharia de Software · TI · IA" width="100%">
+  <img src="banner.png" alt="Banner Matheus Chagas" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/ondas.png" alt="" width="100%">
+  <img src="cena.png" alt="Cena dev com café e fone" width="100%">
 </p>
 
 <h3 align="center"><code>Transformando café e bugs em soluções</code></h3>
